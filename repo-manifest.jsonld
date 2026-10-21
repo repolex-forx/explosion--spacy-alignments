@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-alignments/commit/67a902acfed49eb806e6003783b793c70326778f",
       "git:hexsha": "67a902acfed49eb806e6003783b793c70326778f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:22:09.797631+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-alignments/commit/449e828a7295b263a6fce15c856687614c2d1aa9",
