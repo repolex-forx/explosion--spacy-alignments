@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacy-alignments",
+  "versions": [
+    {
+      "commit": "67a902acfed49eb806e6003783b793c70326778f",
+      "parsed_at": "2026-10-21T03:19:51.918764+00:00",
+      "filetree": "filetree/67a902acfed49eb806e6003783b793c70326778f.nq.gz",
+      "blobs": [
+        "blob/fe67d39149e0c1ef1c2dc96366c078d6f279ceda.nq.gz",
+        "blob/d8763bb247ed317c20cfeec682b50fc300188938.nq.gz",
+        "blob/43eb14a7ec07435b41d75d250454f4f70e1a1700.nq.gz",
+        "blob/1b0ab6570b942007ab1359daa08c0b5bcf660753.nq.gz",
+        "blob/743f666cd5e2e7d916be5ae09d1d8efdc0c6b392.nq.gz",
+        "blob/9df06d15b14c83806e7f7bdb52b928eefce4c315.nq.gz",
+        "blob/cdb580aeb1ac8d96e7afa442ee60a2b137dc3cfa.nq.gz",
+        "blob/6b93003c833cfe0aa94b82abfe13da56409e8abb.nq.gz",
+        "blob/6b88e45aa58446635fa8dc62355c90a424072024.nq.gz",
+        "blob/e6d4e4c226e8e383a2183337a9fa93687a605988.nq.gz",
+        "blob/1a78f89d0ead191717fcbc7e9d0ca7057e509e6c.nq.gz",
+        "blob/bb5dcb807bb2a2c34f4e36dcb16a24a93c2b64c1.nq.gz",
+        "blob/2ad1e1e3295c57ed3487f1079a0061d7bf78a654.nq.gz",
+        "blob/ad217041acd81f24de1ec0a0d5b3dc573b9398ba.nq.gz",
+        "blob/20746d55599c478f97292a80990f0749f88a3d00.nq.gz",
+        "blob/bfcf496c8d0ef1a7c916abc0ea8332779d4ddfb3.nq.gz",
+        "blob/efc92074220fa58be312f2049411741e887c3c48.nq.gz",
+        "blob/b82c591c674e8428b9331067b2681df5995d2cab.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
